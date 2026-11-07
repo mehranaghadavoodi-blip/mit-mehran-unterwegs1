@@ -1,0 +1,11 @@
+name: Seite prüfen
+on:
+  push:
+  pull_request:
+jobs:
+  pruefen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: reisen.json prüfen
+        run: python3 .github/check_reisen.py
