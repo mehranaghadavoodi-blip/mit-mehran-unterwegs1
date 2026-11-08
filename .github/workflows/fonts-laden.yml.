@@ -1,0 +1,19 @@
+name: Schriften lokal laden
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fonts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Schriften laden
+        run: python3 .github/fonts_laden.py
+      - name: Speichern
+        run: |
+          git config user.name "fonts-bot"
+          git config user.email "fonts-bot@users.noreply.github.com"
+          git add fonts
+          git commit -m "Schriften lokal eingebunden" || echo "Keine Änderungen"
+          git push
