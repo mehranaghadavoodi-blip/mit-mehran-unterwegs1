@@ -12,6 +12,12 @@
     "d": "09.2023",
     "n": 15,
     "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL_j-seGiymOqpPjES4iVDdz"
+   },
+   {
+    "t": "Ein kurzer Ostasien-Trip",
+    "n": 28,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL_MVP80N3lHsMqxdnpNzJwy",
+    "d": "ab 08.04.2019"
    }
   ]
  },
@@ -341,7 +347,8 @@
   "trips": [
    {
     "t": "Ägypten",
-    "n": 13
+    "n": 13,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL_avf0HvTjD94NXK4SsvBXL"
    }
   ]
  },
@@ -470,6 +477,90 @@
     "n": 3,
     "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL-3AY-rRMUgKYAfAygYJKuE"
    }
+  ]
+ },
+ {
+  "cc": "TH",
+  "trips": [
+   {
+    "t": "Ein kurzer Ostasien-Trip",
+    "n": 28,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL_MVP80N3lHsMqxdnpNzJwy",
+    "d": "ab 08.04.2019"
+   }
+  ],
+  "p": [
+   [
+    "Phuket",
+    7.88,
+    98.39
+   ],
+   [
+    "Khao Sok",
+    8.92,
+    98.53
+   ],
+   [
+    "Krabi",
+    8.086,
+    98.906
+   ],
+   [
+    "Klong Muang",
+    8.12,
+    98.82
+   ]
+  ]
+ },
+ {
+  "cc": "MM",
+  "trips": [
+   {
+    "t": "Ein kurzer Ostasien-Trip",
+    "n": 28,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL_MVP80N3lHsMqxdnpNzJwy",
+    "d": "ab 08.04.2019"
+   }
+  ]
+ },
+ {
+  "cc": "KH",
+  "trips": [
+   {
+    "t": "Ein kurzer Ostasien-Trip",
+    "n": 28,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL_MVP80N3lHsMqxdnpNzJwy",
+    "d": "ab 08.04.2019"
+   }
+  ]
+ },
+ {
+  "cc": "LA",
+  "trips": [
+   {
+    "t": "Ein kurzer Ostasien-Trip",
+    "n": 28,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL_MVP80N3lHsMqxdnpNzJwy",
+    "d": "ab 08.04.2019"
+   }
+  ]
+ },
+ {
+  "cc": "MY",
+  "trips": [
+   {
+    "t": "Ein kurzer Ostasien-Trip",
+    "d": "ab 08.04.2019",
+    "n": 28,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL_MVP80N3lHsMqxdnpNzJwy"
+   }
+  ],
+  "p": [
+   [
+    "Kuala Lumpur",
+    3.139,
+    101.687
+   ]
   ]
  }
 ]
