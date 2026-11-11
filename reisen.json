@@ -10,7 +10,8 @@
    {
     "t": "Vietnam September 2023",
     "d": "09.2023",
-    "n": 15
+    "n": 15,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL_j-seGiymOqpPjES4iVDdz"
    }
   ]
  },
@@ -24,12 +25,14 @@
    {
     "t": "Albanien Oktober 2023",
     "d": "10.2023",
-    "n": 17
+    "n": 17,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL-GRQfjjQvc_ScTZwaPZfms"
    },
    {
     "t": "Griechenland-Albanien23",
     "d": "2023",
-    "n": 2
+    "n": 2,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL-v8k7Y-uV62BzNGcdFOg87"
    }
   ],
   "p": [
@@ -44,39 +47,54 @@
   "cc": "GR",
   "trips": [
    {
-    "t": "Korfu – Reise-Vlog 2026",
-    "d": "25.09. – 10.10.2026"
+    "t": "Griechenland und Korfu 26",
+    "d": "25.09. – 10.10.2026",
+    "n": 25,
+    "u": "https://www.youtube.com/playlist?list=PLbUcU8o6pgsc"
    },
    {
     "t": "Korfu 13.10.22",
     "d": "10.2022",
-    "n": 22
+    "n": 22,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL9l3xIUmHalRfUQg0AOVvkH"
    },
    {
     "t": "Korfu im Oktober",
-    "n": 15
+    "n": 15,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL8sZtdPAbAl7u0tgvv3zffu"
    },
    {
     "t": "Korfu 10.21",
     "d": "10.2021",
-    "n": 14
+    "n": 14,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL_VCsCNZamAvRNkm7hzdjE2"
    },
    {
     "t": "GRECE Juli20 – Griechenland",
     "d": "07.2020",
-    "n": 29
+    "n": 29,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL-OUzkJKdcB6rPIQAaKxYHu"
    },
    {
     "t": "Kreta Februar 2020",
-    "d": "02.2020"
+    "d": "02.2020",
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL_bHCG347lW9DcyRdDhBv4s",
+    "n": 11
    },
    {
     "t": "Griechenland – Peloponnes",
-    "n": 15
+    "n": 15,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL-oz8FswSw3-4pvoGsQU-_o"
    },
    {
     "t": "Eine griechische Abenteuer-Reise",
-    "n": 3
+    "n": 3,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL97mdpK6uc177DOiRed5Jnr"
+   },
+   {
+    "t": "Griechenland-Peloponnes (2 kurze Wochen)",
+    "n": 1,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL_WvmVUEO-pPE62utVep92y"
    }
   ],
   "p": [
@@ -103,20 +121,25 @@
    {
     "t": "Marokko Novv. 25",
     "d": "11.2025",
-    "n": 80
+    "n": 80,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL9GCPq7Ofoptq9KOTf4Slmx"
    },
    {
     "t": "Marokko – Essaouira",
     "d": "08.2019",
-    "n": 24
+    "n": 24,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL8e-OgEwTjrcTp4NRU0_k49"
    },
    {
     "t": "Morocco",
-    "n": 22
+    "n": 22,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL9EDejEr27tIw-SF6Q414k7"
    },
    {
-    "t": "Morocco, a country that captivates every…",
-    "n": 15
+    "t": "Morocco – a country that captivates every visitor, May 2023",
+    "n": 15,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL9WjF_-D-Q2iMv-45T73yQm",
+    "d": "05.2023"
    }
   ],
   "p": [
@@ -133,16 +156,20 @@
    {
     "t": "Srilanka 2025",
     "d": "2025",
-    "n": 50
+    "n": 50,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL9g1Zt_JQIw4doe4rzZhBnB"
    },
    {
     "t": "Srilanka Juli 25",
     "d": "07.2025",
-    "n": 2
+    "n": 2,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL_eq8SNDf8wp0swrOfbQJtU"
    },
    {
     "t": "SriLanka Januar und Februar 2024",
-    "d": "01.–02.2024"
+    "d": "01.–02.2024",
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL-4NCX0VMal5L5AbbhhAOcP",
+    "n": 39
    }
   ],
   "p": [
@@ -224,12 +251,14 @@
    {
     "t": "Bali 2025",
     "d": "2025",
-    "n": 30
+    "n": 30,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL-77VlKftUN8JNTv4ysj3gv"
    },
    {
     "t": "Bali-Indonesien Juli 2025",
     "d": "07.2025",
-    "n": 26
+    "n": 26,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL9xcEQ48io8DAX8I3dr_6Ii"
    }
   ],
   "p": [
@@ -281,7 +310,8 @@
    {
     "t": "California Feb.–April 2025",
     "d": "02.–04.2025",
-    "n": 28
+    "n": 28,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL8bwL2enn6qKxyO47CRc2pj"
    }
   ]
  },
@@ -291,15 +321,18 @@
    {
     "t": "Berlin Mai.2022",
     "d": "05.2022",
-    "n": 6
+    "n": 6,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL-vZhtR6yU6CM2fv5FEP0lp"
    },
    {
     "t": "Germany-Berlin",
-    "n": 2
+    "n": 2,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL8lr8VU2QjK4sBc7f28wb0-"
    },
    {
     "t": "Kassel-Meissner",
-    "n": 5
+    "n": 5,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL8F_A6GiAANzNLdQYuk-XRG"
    }
   ]
  },
@@ -317,7 +350,8 @@
   "trips": [
    {
     "t": "Frankreich",
-    "n": 2
+    "n": 2,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL_Wz4NDZZyFI4WbovrCTuhR"
    }
   ]
  },
@@ -326,13 +360,20 @@
   "trips": [
    {
     "t": "Georgien",
-    "n": 2
+    "n": 2,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL-Q3kTNDHz3GAaiKJOj6Lld"
    }
   ]
  },
  {
   "cc": "ES",
-  "trips": [],
+  "trips": [
+   {
+    "t": "Spanien-Andalusien – Roadtrip, Flamenco Festival Córdoba, Busreise",
+    "n": 9,
+    "u": "https://www.youtube.com/playlist?list=PLV3-Gfnl7DJ8"
+   }
+  ],
   "p": [
    [
     "Córdoba",
@@ -366,11 +407,13 @@
   "trips": [
    {
     "t": "Amsterdam – Trip",
-    "n": 4
+    "n": 4,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL_p52QzLRd9z08mSTgegpL1"
    },
    {
     "t": "Niederland – Holland",
-    "n": 5
+    "n": 5,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL-Njw_7P2r1eX3pqBKCmFR4"
    }
   ]
  },
@@ -379,11 +422,13 @@
   "trips": [
    {
     "t": "One Week in Poland",
-    "n": 1
+    "n": 1,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL-Y9GRzeo-f2zcyzftHcGHU"
    },
    {
     "t": "Poland",
-    "n": 1
+    "n": 1,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL_70D81ZTG63IVo8B11hkc-"
    }
   ]
  },
@@ -392,7 +437,8 @@
   "trips": [
    {
     "t": "A weekend in Prague.",
-    "n": 2
+    "n": 2,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL-BqVa8-g48Fk675jWPJqf4"
    }
   ]
  },
@@ -401,7 +447,8 @@
   "trips": [
    {
     "t": "Neapel",
-    "n": 1
+    "n": 1,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL-jELhUAFO-7YyEWWmO5N-w"
    }
   ]
  },
@@ -410,7 +457,18 @@
   "trips": [
    {
     "t": "Indien",
-    "n": 1
+    "n": 1,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL89Zd0JbinfG_aPQ4ooJIW-"
+   }
+  ]
+ },
+ {
+  "cc": "TR",
+  "trips": [
+   {
+    "t": "Türkei",
+    "n": 3,
+    "u": "https://www.youtube.com/playlist?list=PLK7IYQJvBvL-3AY-rRMUgKYAfAygYJKuE"
    }
   ]
  }
