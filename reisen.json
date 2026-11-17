@@ -25,10 +25,6 @@
   "cc": "AL",
   "trips": [
    {
-    "t": "Saranda – Das Tor zur Albanischen Riviera",
-    "d": "10.2026"
-   },
-   {
     "t": "Albanien Oktober 2023",
     "d": "10.2023",
     "n": 17,
@@ -53,8 +49,8 @@
   "cc": "GR",
   "trips": [
    {
-    "t": "Griechenland und Korfu 26",
-    "d": "25.09. – 10.10.2026",
+    "t": "Griechenland, Korfu und Albanien 26",
+    "d": "25.09. – 13.10.2026",
     "n": 25,
     "u": "https://www.youtube.com/playlist?list=PLbUcU8o6pgsc"
    },
@@ -372,7 +368,8 @@
    {
     "t": "Spanien-Andalusien – Roadtrip, Flamenco Festival Córdoba, Busreise",
     "n": 9,
-    "u": "https://www.youtube.com/playlist?list=PLV3-Gfnl7DJ8"
+    "u": "https://www.youtube.com/playlist?list=PLV3-Gfnl7DJ8",
+    "d": "26.05.2026"
    }
   ],
   "p": [
